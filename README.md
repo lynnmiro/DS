@@ -5,6 +5,8 @@
 - Each child node has zero or more child nodes, and so on
 - A node is called a “leaf” node if it has no children
 Trees vs. Binary Trees
+
+
 A binary tree is a tree in which each node has up to two children. Not all trees are binary trees. For example, this tree is not a binary tree.
 Binary Tree vs Binary Search Tree
 A binary search tree is a binary tree in which every node fits a specific ordering property. All left descendents <= n < all right descendents. This must be true for each n.
